@@ -1,0 +1,14 @@
+[
+    {
+        "Product":"Laptop",
+        "Price":60000
+    },
+    {
+        "Product":"Phone",
+        "Price":30000
+    },
+    {
+        "Product":"Tablet",
+        "Price":25000
+    }
+]

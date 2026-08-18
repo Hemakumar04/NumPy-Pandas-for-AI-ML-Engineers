@@ -1,0 +1,26 @@
+[
+  {
+    "product":"Laptop",
+    "price":55000,
+    "units_sold":12,
+    "revenue":660000
+  },
+  {
+    "product":"Phone",
+    "price":25000,
+    "units_sold":45,
+    "revenue":1125000
+  },
+  {
+    "product":"Tablet",
+    "price":18000,
+    "units_sold":30,
+    "revenue":540000
+  },
+  {
+    "product":"Monitor",
+    "price":12000,
+    "units_sold":20,
+    "revenue":240000
+  }
+]
